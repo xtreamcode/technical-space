@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+collections:
+  3rd Party Integration:
+    output: true
+    permalink: /3rd-party-integration
